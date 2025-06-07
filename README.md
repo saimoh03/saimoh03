@@ -31,7 +31,7 @@ Here are a few highlights from my Year 1 coursework:
 | [html-css-assignment](https://github.com/saimoh03/html-css-assignment)   | Responsive web page designs and layouts         |
 | [SP1-CA-Submission](https://github.com/saimoh03/SP1-CA-Submission)       | Interactive portfolio site with CSS animations  |
 | [xisaab](https://github.com/saimoh03/xisaab)                             | Java application exploring calculation logic    |
-| [PE1-test-for-netlify](https://github.com/saimoh03/PE1-test-for-netlify) | Deployment demo on Netlify                      |
+| [PE1-test-for-netlify](https://github.com/saimoh03/FED1-PE1-saimoh03-For-Portfolio) | Deployment demo on Netlify                      |
 
 …plus more projects in my repository list! Feel free to explore.
 
