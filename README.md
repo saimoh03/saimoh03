@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a Front-End Developer student at Noroff FEU.
 
 ## 🎓 About Me
 
-- 🔭 Currently studying **HTML & CSS**, **Java**, **Project Methodologies** and **Figma design**  
+- 🔭 Currently studying **HTML & CSS**, **JavaScript**, **Project Methodologies** and **Figma design**  
 - 🌱 Learning modern front-end workflows and best practices  
 - 💬 Ask me about responsive web design, Java fundamentals, or prototyping in Figma  
 - 📫 How to reach me: via GitHub or through my blog contact form  
@@ -28,10 +28,9 @@ Here are a few highlights from my Year 1 coursework:
 
 | Repository                         | Description                                      |
 | ---------------------------------- | ------------------------------------------------ |
-| [html-css-assignment](https://github.com/saimoh03/html-css-assignment)   | Responsive web page designs and layouts         |
-| [SP1-CA-Submission](https://github.com/saimoh03/SP1-CA-Submission)       | Interactive portfolio site with CSS animations  |
-| [xisaab](https://github.com/saimoh03/xisaab)                             | Java application exploring calculation logic    |
-| [PE1-test-for-netlify](https://github.com/saimoh03/FED1-PE1-saimoh03-For-Portfolio) | Deployment demo on Netlify                      |
+| [RainyDays Project](https://github.com/saimoh03/html-css-assignment)   | Responsive web page designs and layouts         |
+| [Science Museum](https://github.com/saimoh03/SP1-CA-Submission)       | Interactive portfolio site with CSS animations  |
+| [Crypto Blog](https://github.com/saimoh03/FED1-PE1-saimoh03-For-Portfolio) | Deployment demo on Netlify for my crowd funding blog  |
 
 …plus more projects in my repository list! Feel free to explore.
 
@@ -39,7 +38,7 @@ Here are a few highlights from my Year 1 coursework:
 
 ## 🌐 Blog
 
-I write tutorials, project walkthroughs, and share design tips on my blog:
+I Develop blogs, here is a project walkthrough of my blog:
 
 🔗 https://fed1-pe1-saimoh03.netlify.app
 
